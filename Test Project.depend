@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1614605940 source:c:\users\lenovo\desktop\test project\main.c
+	<windows.h>
+	"resource.h"
+	"tester.cpp"
+
+1614599889 c:\users\lenovo\desktop\test project\resource.h
+
+1614605973 source:c:\users\lenovo\desktop\test project\resource.rc
+	"resource.h"
+	<windows.h>
+
+1614598871 source:c:\users\lenovo\desktop\test project\tester.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1614598871 c:\users\lenovo\desktop\test project\tester.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1614609212 source:d:\piyush garg\c applications\password strength checker (gui)\main.c
+	<windows.h>
+	"resource.h"
+	"tester.cpp"
+
+1614599889 d:\piyush garg\c applications\password strength checker (gui)\resource.h
+
+1614607637 d:\piyush garg\c applications\password strength checker (gui)\tester.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1614608866 source:d:\piyush garg\c applications\password strength checker (gui)\resource.rc
+	"resource.h"
+	<windows.h>
+
+1614607637 source:d:\piyush garg\c applications\password strength checker (gui)\tester.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
